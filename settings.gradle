@@ -1,0 +1,3 @@
+rootProject.name='AndroidLibDemo'
+include ':app'
+include ':komallib'
